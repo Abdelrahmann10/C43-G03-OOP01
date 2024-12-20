@@ -1,0 +1,11 @@
+D:\.Net\Route\OOP\common\bin\Debug\net8.0\common.deps.json
+D:\.Net\Route\OOP\common\bin\Debug\net8.0\common.dll
+D:\.Net\Route\OOP\common\bin\Debug\net8.0\common.pdb
+D:\.Net\Route\OOP\common\obj\Debug\net8.0\common.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\OOP\common\obj\Debug\net8.0\common.AssemblyInfoInputs.cache
+D:\.Net\Route\OOP\common\obj\Debug\net8.0\common.AssemblyInfo.cs
+D:\.Net\Route\OOP\common\obj\Debug\net8.0\common.csproj.CoreCompileInputs.cache
+D:\.Net\Route\OOP\common\obj\Debug\net8.0\common.dll
+D:\.Net\Route\OOP\common\obj\Debug\net8.0\refint\common.dll
+D:\.Net\Route\OOP\common\obj\Debug\net8.0\common.pdb
+D:\.Net\Route\OOP\common\obj\Debug\net8.0\ref\common.dll
